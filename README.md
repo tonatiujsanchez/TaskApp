@@ -1,28 +1,10 @@
-# Webpack Starter
+# Task App
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Aplicación para llevar el control de tareas o actividades
 
 ### Notas:
-Se necesita reconstruir los modulos de Node
-ulizando el siguiente comando:
-```
-npm install
+Esta aplicacion esta desarrollada con Javascript y Webpack.
 
-```
-
-Para contruir el build de produccion utilizar el siguiente comando:
-
-```
-npm run build
-```
-
-y para la construcción el build de desarrollo, utilizar el siguiente comando:
-
-```
-npm run build:dev
-```
-
-El siguiente comando es para iniciar el proyecto:
-```
-npm start
-```
+Caracteristicas:
+Código optimizado y minimizado
+Se utilizó Babel para la compatibilidad con navegadores antiguos. 
